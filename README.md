@@ -1,13 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Mansi Sharma</h1>
-<h3 align="center">💻 BTech CSE Student | 🌱 Web Dev & DSA Learner | 🚀 Hackathon Enthusiast</h3>
+<h1 align="center">Hi there 👋, SAM here </h1>
+<h3 align="center">💻 BTech CSE Student | 🌱 Web Dev & DSA Learner | </h3>
 
 ---
 
 ### 👩‍💻 About Me
 - 🎓 Currently a **2nd-year BTech CSE student**  
-- 🌐 Learning **Web Development (JS + React)** & learning **DSA (C++)**  
-- 💡 Preparing for **Smart India Hackathon 2025**  
-- 🏎️ Love for **Formula 1** – speed, strategy & adrenaline!  
+- 🌐 Learning **Web Development (JS + React)** & learning **DSA (C++)**     
 - ✨ Interested in **tech + creativity + problem-solving**  
 
 ---
@@ -33,19 +31,15 @@
 
 ---
 
-### 🚀 Fun Side of Me
-- 🎨 Love **aesthetic & creative designs**  
-- 🎮 Casual gamer + binge watcher  
-- 📖 Exploring **British culture & literature** (and yes, accents too 🇬🇧✨)  
-- 🏎️ Can talk about **Formula 1** all day long!  
+  
 
 ---
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />https://www.linkedin.com/in/mansi-sharma-86a568312/</a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mansi-sharma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/mansi-sharma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />https://github.com/Sam-syntax35/</a>
 </p>
 
 ---
