@@ -53,82 +53,11 @@ Passionate about building scalable backend systems, solving real-world problems,
 
 ---
 
-# 🚀 Featured Projects
 
-## 🌐 HTTP Server From Scratch
-Built a fully functional HTTP server using Node.js `net` module.
 
-**Highlights**
-- HTTP request parsing
-- Persistent connections
-- Concurrent clients
-- Gzip compression
-- Static file serving
 
-🔗 https://github.com/Sam-syntax35/Http-server-from-scratch
 
----
 
-## 🚆 IRCTC Backend (In Progress)
-
-Scalable railway booking backend using Node.js.
-
-Features include
-
-- JWT Authentication
-- PostgreSQL
-- Redis
-- Docker
-- Seat Booking
-- Payment Integration
-- Microservices Architecture
-
----
-
-## 📒 Backend Ledger
-
-Backend ledger application built with Express & MongoDB.
-
-- Authentication
-- Email verification
-- Ledger management
-- MongoDB
-
----
-
-## 📊 API Monitoring System
-
-Backend monitoring platform with
-
-- RabbitMQ
-- PostgreSQL
-- Docker
-- Logging
-- Queue Processing
-
----
-
-# 🌍 Open Source Contributions
-
-## Ansvisor
-
-✅ Merged Pull Request
-
-**Feature Added**
-
-Added a **Bulk Done** action to the Content Optimization dashboard.
-
-Implemented
-
-- React UI enhancement
-- Bulk action handler
-- Existing API integration
-- CI fixes
-- Passed maintainer review
-
-🔗 https://github.com/ansvisor/ansvisor/pull/356
-
----
 
 # 📈 GitHub Stats
 
@@ -146,17 +75,7 @@ Implemented
 
 </p>
 
----
 
-# 🎯 2026 Goals
-
-- ✅ Contribute to Open Source regularly
-- 🔄 Build production-grade backend projects
-- ☁ Learn AWS & Kubernetes
-- 🤖 Build AI-powered applications
-- 💼 Land a Backend / AI Internship
-
----
 
 # 🤝 Connect With Me
 
