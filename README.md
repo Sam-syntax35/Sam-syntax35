@@ -1,41 +1,185 @@
-<h1 align="center">Hi there 👋, SAM here </h1>
-<h3 align="center">💻 BTech CSE Student | 🌱 Web Dev & DSA Learner | </h3>
+<h1 align="center">Hi there 👋, I'm Mansi Sharma</h1>
 
----
+<h3 align="center">
+💻 Backend Developer • Open Source Contributor • B.Tech CSE (AI)
+</h3>
 
-### 👩‍💻 About Me
-- 🎓 Currently a **2nd-year BTech CSE student**  
-- 🌐 Learning **Web Development (JS + React)** & learning **DSA (C++)**     
-- ✨ Interested in **tech + creativity + problem-solving**  
-
----
-
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+Passionate about building scalable backend systems, solving real-world problems, and contributing to open source.
 </p>
 
 ---
 
+## 👩‍💻 About Me
 
-
-  
+- 🎓 B.Tech CSE (AI) student at **University of Lucknow**
+- 💻 Backend Developer specializing in **Node.js & Express**
+- 🌱 Currently learning **System Design, PostgreSQL, Redis, Docker & AWS**
+- 🤖 Exploring **AI Engineering & Agentic AI**
+- 🌍 Open Source Contributor
+- 🧩 Solved **350+ DSA problems**
+- 🚀 Always building projects that solve real-world problems
 
 ---
 
-### 📫 Connect With Me
+## 🛠 Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 HTTP Server From Scratch
+Built a fully functional HTTP server using Node.js `net` module.
+
+**Highlights**
+- HTTP request parsing
+- Persistent connections
+- Concurrent clients
+- Gzip compression
+- Static file serving
+
+🔗 https://github.com/Sam-syntax35/Http-server-from-scratch
+
+---
+
+## 🚆 IRCTC Backend (In Progress)
+
+Scalable railway booking backend using Node.js.
+
+Features include
+
+- JWT Authentication
+- PostgreSQL
+- Redis
+- Docker
+- Seat Booking
+- Payment Integration
+- Microservices Architecture
+
+---
+
+## 📒 Backend Ledger
+
+Backend ledger application built with Express & MongoDB.
+
+- Authentication
+- Email verification
+- Ledger management
+- MongoDB
+
+---
+
+## 📊 API Monitoring System
+
+Backend monitoring platform with
+
+- RabbitMQ
+- PostgreSQL
+- Docker
+- Logging
+- Queue Processing
+
+---
+
+# 🌍 Open Source Contributions
+
+## Ansvisor
+
+✅ Merged Pull Request
+
+**Feature Added**
+
+Added a **Bulk Done** action to the Content Optimization dashboard.
+
+Implemented
+
+- React UI enhancement
+- Bulk action handler
+- Existing API integration
+- CI fixes
+- Passed maintainer review
+
+🔗 https://github.com/ansvisor/ansvisor/pull/356
+
+---
+
+# 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mansi-sharma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sam-syntax35&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-syntax35&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sam-syntax35&theme=tokyonight"/>
+
 </p>
 
 ---
 
-⭐️ *“Code, Create, Compete – that’s the journey.”*
+# 🎯 2026 Goals
+
+- ✅ Contribute to Open Source regularly
+- 🔄 Build production-grade backend projects
+- ☁ Learn AWS & Kubernetes
+- 🤖 Build AI-powered applications
+- 💼 Land a Backend / AI Internship
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mansi-sharma-86a568312">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:leosharma317305@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sam-syntax35">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</p>
